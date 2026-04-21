@@ -1,22 +1,47 @@
 {
-  "generated_at": "2026-04-21T06:11:47.072167+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-04-21T14:17:05.993332+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 中国 广东 特朗普",
-      "match_count": 77,
+      "match_count": 92,
       "titles": [
         {
           "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011024",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 06时11分]"
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
+          "url": "https://wallstreetcn.com/articles/3770404",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 14时17分]"
+        },
+        {
+          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011503",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 14时17分]"
         },
         {
           "title": "台青：若不承认自己是中国人就别放假",
@@ -56,11 +81,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33009370",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 06时11分]"
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 14时17分]"
         },
         {
           "title": "台青：不承认是中国人中秋就别放假",
@@ -68,28 +94,6 @@
           "source": "百度热搜",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 06时11分]"
-        },
-        {
-          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011503",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 06时11分]"
-        },
-        {
-          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
-          "url": "https://wallstreetcn.com/articles/3770404",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -105,6 +109,85 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗喊话美国：立即释放！",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "美国男子枪杀8名儿童后自戕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353501&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9E%AA%E6%9D%808%E5%90%8D%E5%84%BF%E7%AB%A5%E5%90%8E%E8%87%AA%E6%88%95",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "42种图书入选2025年度中国好书",
+          "url": "https://s.weibo.com/weibo?q=%2342%E7%A7%8D%E5%9B%BE%E4%B9%A6%E5%85%A5%E9%80%892025%E5%B9%B4%E5%BA%A6%E4%B8%AD%E5%9B%BD%E5%A5%BD%E4%B9%A6%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "赵心童丁俊晖上演中国德比",
+          "url": "https://www.douyin.com/hot/2473091",
+          "source": "抖音",
+          "ranks": [
+            21,
+            18,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 14时17分]"
+        },
+        {
+          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
+          "url": "https://www.cls.cn/detail/2350106",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普撇清：以色列可说不动我",
+          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "墨西哥外长埃布拉德：与美国贸易代表格里尔的会晤富有成效。",
@@ -135,7 +218,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -157,7 +240,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -168,7 +251,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -190,7 +273,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -224,7 +307,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -369,18 +452,6 @@
           "time_info": "[03时44分 ~ 06时11分]"
         },
         {
-          "title": "赵心童丁俊晖上演中国德比",
-          "url": "https://www.douyin.com/hot/2473091",
-          "source": "抖音",
-          "ranks": [
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 06时11分]"
-        },
-        {
           "title": "伊朗已决定继续与美国谈判",
           "url": "https://www.douyin.com/hot/2472753",
           "source": "抖音",
@@ -413,6 +484,83 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗要求美国立即放人",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E7%AB%8B%E5%8D%B3%E6%94%BE%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://www.cls.cn/detail/2350029",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "民调：特朗普支持率创第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7630352961877655571/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "西班牙一地欢迎中国投资但忧中国工人",
+          "url": "https://www.toutiao.com/trending/7631003273583476772/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "中国代表在安理会当场驳斥美方抹黑",
+          "url": "https://www.toutiao.com/trending/7630546724901568563/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "特朗普威胁停火到期将开炸",
@@ -454,7 +602,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -465,7 +613,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -476,7 +624,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -498,7 +646,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -520,7 +668,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -531,7 +679,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -542,7 +690,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -564,7 +712,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -575,7 +723,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -586,7 +734,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -608,7 +756,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -707,7 +855,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -740,7 +888,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -795,7 +943,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -817,7 +965,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -839,9 +987,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高1.7%报37,605.11点。",
+          "url": "https://wallstreetcn.com/livenews/3091551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "中粮集团与中国供销集团签署战略合作框架协议",
+          "url": "https://flash.jin10.com/detail/20260421134251312800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "美国能源部：截至2025年底全球战略石油库存总量达25亿桶",
@@ -861,7 +1031,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         }
