@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T06:09:54.414848+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-04-22T14:14:37.392802+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 中国 广东 特朗普",
-      "match_count": 71,
+      "match_count": 97,
       "titles": [
         {
           "title": "中国外交部、韩国外交部同日表态",
@@ -52,15 +52,92 @@
           "time_info": "[03时54分 ~ 06时09分]"
         },
         {
+          "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
+          "url": "https://www.cls.cn/detail/2351434",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "伊朗拒谈判,美国延长停火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "中国大蒜竟被列为国家安全威胁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E7%AB%9F%E8%A2%AB%E5%88%97%E4%B8%BA%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "曹德旺：大不了把美国工厂关掉",
+          "url": "https://www.toutiao.com/trending/7631442474728345097/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "曹德旺：大不了把美国工厂关掉",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%B9%E5%BE%B7%E6%97%BA%EF%BC%9A%E5%A4%A7%E4%B8%8D%E4%BA%86%E6%8A%8A%E7%BE%8E%E5%9B%BD%E5%B7%A5%E5%8E%82%E5%85%B3%E6%8E%89",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "伊朗：特朗普延长停火毫无意义",
+          "url": "https://news.ifeng.com/c/8sWi9cCO6x5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "伊朗军官：警告海湾邻国不要帮助美国发动对伊袭击",
@@ -74,13 +151,36 @@
           "time_info": "03时54分"
         },
         {
+          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
+          "url": "https://wallstreetcn.com/articles/3770525",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时54分 ~ 14时14分]"
+        },
+        {
+          "title": "伊朗武装部队警告美国：随时准备开火",
+          "url": "https://news.ifeng.com/c/8sWH57YfkrU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "美国财政部长贝森特：几天内，哈尔克岛的原油仓储空间即将耗尽。",
           "url": "https://flash.jin10.com/detail/20260422053518733800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -96,13 +196,46 @@
           "time_info": "03时54分"
         },
         {
+          "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
+          "url": "https://www.cls.cn/detail/2351404",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "伊朗致信联合国：责令美国“放人”",
+          "url": "https://news.ifeng.com/c/8sWcIvC6CVY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "美伊第二轮谈判搁置？伊朗代表：美国解除对伊封锁是谈判前提条件",
+          "url": "https://www.cls.cn/detail/2351498",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "美国白宫官员：美国副总统万斯的巴基斯坦之行将不会在周二进行。",
           "url": "https://flash.jin10.com/detail/20260422052814117800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -130,15 +263,39 @@
           "time_info": "[03时54分 ~ 06时09分]"
         },
         {
-          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
-          "url": "https://wallstreetcn.com/articles/3770525",
+          "title": "5月1日——特朗普“任性打仗”的关键时限",
+          "url": "https://wallstreetcn.com/articles/3770498",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[03时54分 ~ 14时14分]"
+        },
+        {
+          "title": "美国启动一万亿元退关税",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353548&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%87%E4%BA%BF%E5%85%83%E9%80%80%E5%85%B3%E7%A8%8E",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时54分 ~ 14时14分]"
+        },
+        {
+          "title": "美国男子枪杀8名儿童后自戕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353501&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9E%AA%E6%9D%808%E5%90%8D%E5%84%BF%E7%AB%A5%E5%90%8E%E8%87%AA%E6%88%95",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时54分 ~ 14时14分]"
         },
         {
           "title": "中国运导弹原料船被美扣押？中方回应",
@@ -153,31 +310,9 @@
           "time_info": "[03时54分 ~ 06时09分]"
         },
         {
-          "title": "5月1日——特朗普“任性打仗”的关键时限",
-          "url": "https://wallstreetcn.com/articles/3770498",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 06时09分]"
-        },
-        {
           "title": "张治中将军女儿、著名侨领张素久在美国逝世，享年91岁",
           "url": "https://m.thepaper.cn/newsDetail_forward_33017846",
           "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 06时09分]"
-        },
-        {
-          "title": "美国启动一万亿元退关税",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353548&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%87%E4%BA%BF%E5%85%83%E9%80%80%E5%85%B3%E7%A8%8E",
-          "source": "贴吧",
           "ranks": [
             7
           ],
@@ -225,17 +360,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 06时09分]"
-        },
-        {
-          "title": "美国男子枪杀8名儿童后自戕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353501&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9E%AA%E6%9D%808%E5%90%8D%E5%84%BF%E7%AB%A5%E5%90%8E%E8%87%AA%E6%88%95",
-          "source": "贴吧",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -294,7 +418,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -310,13 +434,46 @@
           "time_info": "03时54分"
         },
         {
+          "title": "美国海军将继续封锁伊朗港口",
+          "url": "https://news.ifeng.com/c/8sWntEu20ZK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "谢锋：中国大蒜做梦没想到被列为威胁",
+          "url": "https://www.toutiao.com/trending/7631348375794896393/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "加拿大首席美国贸易谈判代表：预计在7月1日前无法解决所有美墨加协定（USMCA）问题。",
           "url": "https://flash.jin10.com/detail/20260422052003312800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -338,9 +495,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "特朗普宣布延长同伊朗的停火",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33023082",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "外交部：美国在霍尔木兹海峡扣押的是一艘外籍集装箱船",
@@ -371,9 +539,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "美国防部欲投入数百亿美元增购关键弹药",
+          "url": "https://wallstreetcn.com/livenews/3092330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "美联储和美国财政部联手？沃什首度实质性表态：缩表问题上双方将合作",
+          "url": "https://www.cls.cn/detail/2351497",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "特朗普就关税退款发警告",
+          "url": "https://news.ifeng.com/c/8sWa8XCzzKG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "白宫官员：美国副总统万斯不会在周二前往巴基斯坦。",
@@ -382,7 +594,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -393,7 +605,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -404,7 +616,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -415,7 +627,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -437,9 +649,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高0.7%报37,878.47点。",
+          "url": "https://wallstreetcn.com/livenews/3092321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：如果美国想要维持战争乌云，就应视霍尔木兹海峡已实际完全关闭。",
@@ -448,7 +671,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -459,9 +682,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "曹德旺说大不了把美国工厂关掉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%B9%E5%BE%B7%E6%97%BA%E8%AF%B4%E5%A4%A7%E4%B8%8D%E4%BA%86%E6%8A%8A%E7%BE%8E%E5%9B%BD%E5%B7%A5%E5%8E%82%E5%85%B3%E6%8E%89%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
+          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "伊朗高级官员：如果美国放弃施压和威胁政策，伊朗可能会参加在巴基斯坦举行的会谈。",
@@ -475,13 +720,24 @@
           "time_info": "03时54分"
         },
         {
+          "title": "中国军舰大片震撼上新",
+          "url": "https://www.douyin.com/hot/2474644",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "你如何看中国馒头在国外走红",
           "url": "https://www.toutiao.com/trending/7631053981633052698/",
           "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -503,9 +759,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社，伊朗收到“一些信号”暗示美国准备破除封锁。 国际原油价格短线走低，布油、WTI日内跌超1%；现货黄金短线拉升，日内涨超1%；美元指数走低，日内跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3092314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "如何看待樊振东在美国与英伟达副总裁合影？传递了什么信号？",
+          "url": "https://www.zhihu.com/question/2029984304198108388",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "伊朗高级官员表示，巴基斯坦劝说美国解除海上封锁、释放伊朗船只及其船员的努力尚未取得成效。伊朗拒绝在压力下进行谈判或旨在使其投降的谈判。",
@@ -525,7 +803,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -536,7 +814,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -580,7 +858,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -602,7 +880,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -624,7 +902,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -646,7 +924,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -668,7 +946,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -679,7 +957,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -690,7 +968,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -712,7 +990,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -734,7 +1012,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -745,7 +1023,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -756,7 +1034,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -767,7 +1045,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -778,7 +1056,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -792,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "伊朗抓住了美国的要害",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8A%93%E4%BD%8F%E4%BA%86%E7%BE%8E%E5%9B%BD%E7%9A%84%E8%A6%81%E5%AE%B3%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         }
       ]
     }
