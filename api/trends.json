@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T04:16:23.075635+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-04-24T07:33:14.257406+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 中国 广东 特朗普",
-      "match_count": 65,
+      "match_count": 99,
       "titles": [
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
@@ -16,20 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
-        },
-        {
-          "title": "曹德旺称「如果遇到不讲道理的情况，大不了把美国工厂关掉」，如何看待他的这一表态？",
-          "url": "https://www.zhihu.com/question/2030281305108263064",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "中国如何攥紧能源命脉",
@@ -39,19 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
           "url": "https://www.cls.cn/detail/2354007",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "特鲁多炮轰美国“经济胁迫”：把加拿大推向中国",
@@ -61,8 +50,32 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "曹德旺称「如果遇到不讲道理的情况，大不了把美国工厂关掉」，如何看待他的这一表态？",
+          "url": "https://www.zhihu.com/question/2030281305108263064",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "伊朗领导层集体驳斥特朗普",
+          "url": "https://news.ifeng.com/c/8sZO60HNUR0",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
+          "time_info": "[04时16分 ~ 07时33分]"
         },
         {
           "title": "伊朗战争丨以防长：只要美国同意，将刺杀穆杰塔巴",
@@ -87,26 +100,59 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
+          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 07时33分]"
+        },
+        {
+          "title": "【早报】伊朗：谈判重心已转为彻底停战；特朗普称“不想仓促行事”",
+          "url": "https://www.cls.cn/detail/2354199",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 07时33分]"
+        },
+        {
+          "title": "美国总统特朗普：银行们必须公正且妥善对待在洛杉矶野火中失去家园的人们。",
+          "url": "https://flash.jin10.com/detail/20260424065441860800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "标普500指数初步收跌0.4%，科技板块跌1.6%，可选消费板块跌1%，金融板块跌0.9%，日用品板块涨1.7%，公用事业板块涨2.8%。 纳斯达克100指数初步收跌0.5%，成分股中，Workday初步收跌9.5%，Palantir跌7.5%，Zscaler、Adobe、CTSH、AppLovin、财捷Intuit、Shopify至多跌6.8%，铿腾电子跌5.2%，恩智浦涨6.6%，微芯科技涨9.5%，德州仪器狂飙19%。 Salesforce初步收跌8.8%，与IBM、美国运通、微软、霍尼韦尔领跌道指成分股，卡特彼勒则涨3.2%。 半导体指数连续第十七个交易日收涨。",
           "url": "https://wallstreetcn.com/livenews/3093506",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
         {
-          "title": "伊朗领导层集体驳斥特朗普",
-          "url": "https://news.ifeng.com/c/8sZO60HNUR0",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我们将关注银行业采取的行动。很难与富国银行“打交道”。",
+          "url": "https://flash.jin10.com/detail/20260424065314415800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时16分"
+          "time_info": "07时33分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.4%。 热门中概股里，好未来初步收跌9.3%，小鹏跌6.4%，新东方跌5.8%，小马智行跌5%，文远知行、再鼎医药跌4.3%，阿里巴巴跌3.5%，网易跌3.2%，蔚来跌3%，理想、万国数据大致持平，世纪互联涨0.8%，晶科能源涨1%，阿特斯太阳能涨9.5%。 ETF中，KWEB跌2.8%，CQQQ跌2%。",
@@ -115,7 +161,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -126,9 +172,56 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普宣布黎以停火延长三周，有助扫清美伊结束战事的关键障碍",
+          "url": "https://flash.jin10.com/detail/20260424064652305800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国要拉清单了：这些是好盟友，那些是坏盟友",
+          "url": "https://news.ifeng.com/c/8sYjih8P6pj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "打一针有望治愈先天性耳聋，中国医生基因疗法多中心临床研究登《自然》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032920",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "tplink神发言:我们是美国企业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353669&amp;topic_name=tplink%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E6%88%91%E4%BB%AC%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "乌克兰提议以特朗普命名争议区域",
@@ -137,7 +230,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -148,9 +241,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
+          "url": "https://www.zhihu.com/question/2030255513384870069",
+          "source": "知乎",
+          "ranks": [
+            6,
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "美国总统特朗普：我们会击败伊朗。",
@@ -159,7 +276,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -175,62 +292,95 @@
           "time_info": "00时56分"
         },
         {
-          "title": "美国要拉清单了：这些是好盟友，那些是坏盟友",
-          "url": "https://news.ifeng.com/c/8sYjih8P6pj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
-        },
-        {
-          "title": "tplink神发言:我们是美国企业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353669&amp;topic_name=tplink%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E6%88%91%E4%BB%AC%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
-        },
-        {
-          "title": "打一针有望治愈先天性耳聋，中国医生基因疗法多中心临床研究登《自然》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032920",
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
           "source": "澎湃新闻",
           "ranks": [
-            8,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
-          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
-          "url": "https://www.zhihu.com/question/2030255513384870069",
+          "title": "伊朗挂巨幅海报：特朗普说什么都没用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8C%82%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "美国海军部长突然被解职，有内幕曝光称其惹怒了防长，究竟是什么原因导致了此次人事变动？",
+          "url": "https://www.zhihu.com/question/2030603370201870887",
           "source": "知乎",
           "ranks": [
-            6,
-            19
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "title": "美国海军部长“没搞清谁才是老大”被解职，五角大楼裂痕加深",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032587",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "伊朗拒谈判,美国延长停火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
+          "url": "https://news.ifeng.com/c/8sZJGqwNRey",
           "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
+          "time_info": "[04时16分 ~ 07时33分]"
         },
         {
           "title": "外国人震惊中国水果摊老板开门睡觉",
@@ -239,17 +389,6 @@
           "ranks": [
             8,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
-        },
-        {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -268,64 +407,6 @@
           "time_info": "[00时55分 ~ 04时16分]"
         },
         {
-          "title": "伊朗挂巨幅海报：特朗普说什么都没用",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8C%82%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
-        },
-        {
-          "title": "美国海军部长突然被解职，有内幕曝光称其惹怒了防长，究竟是什么原因导致了此次人事变动？",
-          "url": "https://www.zhihu.com/question/2030603370201870887",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
-        },
-        {
-          "title": "美国海军部长“没搞清谁才是老大”被解职，五角大楼裂痕加深",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032587",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
-        },
-        {
-          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
-          "url": "https://www.zhihu.com/question/2030579933127391060",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
-        },
-        {
           "title": "斯诺克世锦赛将上演“中国德比”",
           "url": "https://www.toutiao.com/trending/7631449319238942730/",
           "source": "今日头条",
@@ -336,6 +417,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 04时16分]"
+        },
+        {
+          "title": "何立峰会见美国黑石集团董事长",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E9%BB%91%E7%9F%B3%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 07时33分]"
         },
         {
           "title": "美国一女子28年不剪指甲",
@@ -350,15 +443,15 @@
           "time_info": "[00时55分 ~ 04时16分]"
         },
         {
-          "title": "伊朗拒谈判,美国延长停火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
-          "source": "贴吧",
+          "title": "特朗普下达击沉令 伊朗亮7条反击方案",
+          "url": "https://www.toutiao.com/trending/7632094520066182697/",
+          "source": "今日头条",
           "ranks": [
-            29
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 04时16分]"
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 07时33分]"
         },
         {
           "title": "特朗普下令击沉任何在霍尔木兹布雷船，伊朗称已定反击目标清单，巴称美伊谈判陷僵局",
@@ -372,15 +465,37 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
-          "url": "https://news.ifeng.com/c/8sZJGqwNRey",
-          "source": "凤凰网",
+          "title": "“疯王”特朗普、“疯狂的战争”与“癫狂的市场”",
+          "url": "https://wallstreetcn.com/articles/3770672",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普称美完全掌控霍尔木兹",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%AE%8C%E5%85%A8%E6%8E%8C%E6%8E%A7%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普称下令击沉霍尔木兹布雷船",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8B%E4%BB%A4%E5%87%BB%E6%B2%89%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%B8%83%E9%9B%B7%E8%88%B9%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 07时33分]"
         },
         {
           "title": "一美国海军士兵在前往霍尔木兹海峡途中因遭猴子袭击送医治疗",
@@ -400,7 +515,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -411,9 +526,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普预计普京不会出席G20 但称他的参与“可能有用”",
+          "url": "https://flash.jin10.com/detail/20260424063617138800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国石油公司Continental、Formentera、Aspect的CEO们会见委内瑞拉代总统Rodriguez。 CEO们称，会谈富有成效。",
@@ -433,9 +559,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美国总统特朗普谈及洛杉矶野火，称：我们将关注银行业采取的行动。 很难与富国银行“打交道”。",
+          "url": "https://wallstreetcn.com/livenews/3093568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普再称“不着急”“没压力” 想同伊朗达成“永久协议”",
+          "url": "https://flash.jin10.com/detail/20260424062741826800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国新任驻委内瑞拉代办到任",
@@ -444,7 +592,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -455,7 +603,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -466,7 +614,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -488,7 +636,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -499,7 +647,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -510,7 +658,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -521,9 +669,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "Polymarket：我们发现一名用户在交易机密政府信息，已将此事移交给美国司法部并配合调查。",
+          "url": "https://flash.jin10.com/detail/20260424061400149800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "据伊朗方面报道，一艘装载大米的伊朗散货船，在美国海军试图扣押的情况下，得到革命卫队海军舰艇的护航，安全通过了阿曼海并抵达伊朗。",
@@ -532,7 +691,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -543,9 +702,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "【特朗普“不会”考虑对伊朗动用核武器】被问及是否会考虑对伊朗动用核武器，特朗普回答“不会”，并称美国即便不发动核打击，也已将伊朗“彻底摧毁”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3093561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国商务部长：特朗普金卡签证项目迄今只有一人获批",
@@ -565,7 +735,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -587,7 +757,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -620,9 +790,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美国司法部：指控美军士兵利用“特朗普派兵强行掳走委内瑞拉总统马杜罗”机密信息进行投注一事。 指控美军士兵从预测市场投注中获利。 被控诉的士兵使用Polymarket账户。",
+          "url": "https://wallstreetcn.com/livenews/3093555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国商务部长卢特尼克：已有一人获批“金卡”，另有数百人在排队等候。",
@@ -636,15 +817,59 @@
           "time_info": "00时56分"
         },
         {
+          "title": "美国总统特朗普：如果英国不取消数字服务税，将对其征收关税。",
+          "url": "https://flash.jin10.com/detail/20260424054953498800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普：若英国不取消数字服务税，美国将对英国商品征收高额关税",
+          "url": "https://wallstreetcn.com/livenews/3093553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在考虑帮助精神航空公司，可能会收购。正在寻找是否能以合适的价格收购这家公司。",
+          "url": "https://flash.jin10.com/detail/20260424054745781800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "报道：特朗普拟延长船舶豁免政策，保障油气运输缓解供应紧张",
           "url": "https://wallstreetcn.com/livenews/3093477",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美国总统特朗普：我们不会阻止运动员参加世界杯。",
+          "url": "https://flash.jin10.com/detail/20260424054542141800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.595%，投标倍数2.98。 拍卖八周期国债，得标利率3.605%，投标倍数2.91。",
@@ -664,9 +889,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美国总统特朗普重申：希望推进拯救美国法案（SAA）。",
+          "url": "https://wallstreetcn.com/livenews/3093551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国总统特朗普将提名Serco高管戴维·卡明斯领导美国运输安全管理局。",
@@ -680,15 +916,81 @@
           "time_info": "00时56分"
         },
         {
-          "title": "何立峰会见美国黑石集团董事长",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E9%BB%91%E7%9F%B3%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF",
-          "source": "百度热搜",
+          "title": "特朗普谈预测市场内幕押注：世界变得有点像是个赌场",
+          "url": "https://flash.jin10.com/detail/20260424054524808800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普：美国不存在石油供应短缺。",
+          "url": "https://wallstreetcn.com/livenews/3093550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普：我不知道有关于邀请俄罗斯参加G20的事。",
+          "url": "https://flash.jin10.com/detail/20260424054433402800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时16分"
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普：我正考虑收购航空公司Spirit Airlines。 有人希望经营Spirit Airlines。 如果经营得当，会是一笔不错的资产。",
+          "url": "https://wallstreetcn.com/livenews/3093549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普：我怀疑俄罗斯总统普京不会来。",
+          "url": "https://flash.jin10.com/detail/20260424054423090800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普宣称：据我所知，普京不会参加G20峰会。",
+          "url": "https://wallstreetcn.com/livenews/3093548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普：如果俄罗斯总统普京出席G20峰会，将会有所帮助。",
+          "url": "https://flash.jin10.com/detail/20260424054400169800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "报道：微软向约7%的美国员工提供自愿退休方案",
@@ -702,15 +1004,37 @@
           "time_info": "00时56分"
         },
         {
+          "title": "美国总统特朗普被问及周一被扣船只所载物品，声称：属绝密信息。",
+          "url": "https://wallstreetcn.com/livenews/3093546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "特朗普的“真实社交”翻车了吗",
           "url": "https://www.toutiao.com/trending/7631948690998955526/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普：没有人试图通过霍尔木兹海峡；伊朗如果想的话可以放弃手中的水雷，这（指布设水雷）真是个愚蠢的决定。",
+          "url": "https://flash.jin10.com/detail/20260424054356704800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国总统特朗普：只会在（时机）适宜时、（条款内容）不错时才达成一份伊朗协议。 在当前形势下，我所承受的压力是最小的。 在全世界，就我的时间最多，但伊朗则没有。",
@@ -719,9 +1043,53 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗向霍尔木兹海峡扔水雷（布雷），那他们将是愚蠢的。 不知道伊朗是否在布雷。",
+          "url": "https://wallstreetcn.com/livenews/3093545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗将削减对黎巴嫩真主党的资金支持。",
+          "url": "https://flash.jin10.com/detail/20260424053620532800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国总统特朗普声称：正从委内瑞拉攫取数百万桶石油。",
+          "url": "https://wallstreetcn.com/livenews/3093544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美媒：特朗普拟邀请普京参加在美举办的G20峰会",
+          "url": "https://flash.jin10.com/detail/20260424053549629800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "Spirit 航空公司证实：正与特朗普政府就融资进行“非常深入的讨论”",
@@ -730,9 +1098,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普：“不喜欢”预测市场",
+          "url": "https://wallstreetcn.com/livenews/3093543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     }
