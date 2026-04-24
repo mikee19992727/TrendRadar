@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T04:07:52.264349+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-04-25T07:07:08.891058+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 中国 广东 特朗普",
-      "match_count": 72,
+      "match_count": 85,
       "titles": [
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
         },
         {
           "title": "中国物流市场规模保持世界首位",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
         },
         {
           "title": "特朗普的嘴，开了挂了",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
         },
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -49,8 +49,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
+          "url": "https://news.ifeng.com/c/8saNhgKa31P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "摩根大通：中国楼市逼近拐点",
+          "url": "https://www.toutiao.com/trending/7632332404719357450/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时07分 ~ 07时07分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -58,17 +81,6 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
-        },
-        {
-          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
-          "url": "https://news.ifeng.com/c/8saNhgKa31P",
-          "source": "凤凰网",
-          "ranks": [
             5
           ],
           "is_new": false,
@@ -104,9 +116,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "美国法官对特朗普100亿美元国税局泄密诉讼提出质疑",
+          "url": "https://wallstreetcn.com/livenews/3094322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "据以色列第12频道：以色列安全官员表示，美国在停火前几天对以色列在黎巴嫩某些地区的行动施加了限制。",
@@ -137,42 +160,33 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
         {
-          "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
-          "url": "https://flash.jin10.com/detail/20260425033951908800",
-          "source": "金十数据",
+          "title": "微软向 7% 的美国员工提供自愿退休方案，工龄与年龄之和需达 70，如何看待这个设计？是变相「裁员」吗？",
+          "url": "https://www.zhihu.com/question/2030799140410619849",
+          "source": "知乎",
+          "ranks": [
+            2,
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
+          "url": "https://wallstreetcn.com/livenews/3094320",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "摩根大通：中国楼市逼近拐点",
-          "url": "https://www.toutiao.com/trending/7632332404719357450/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX铜期货投机性净多头寸增加6995手至59132手。",
-          "url": "https://flash.jin10.com/detail/20260425033416429800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时07分"
+          "time_info": "07时07分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：4月21日当周，投机者所持COMEX黄金净多头头寸减少3,352手合约，至95,498手合约。 所持COMEX白银净多头头寸降低至8,863手合约，创七周新低。 所持COMEX铜净多头头寸增至59,132手合约，创逾三个月新高。 减持NYMEX铂金净多头头寸。 增持NYMEX钯金净空头头寸。",
@@ -181,20 +195,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX白银期货投机性净多头寸减少2184手至8863手。",
-          "url": "https://flash.jin10.com/detail/20260425033333730800",
-          "source": "金十数据",
+          "title": "美国缅因州州长否决全州数据中心暂停建设法案",
+          "url": "https://wallstreetcn.com/livenews/3094319",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时07分"
+          "time_info": "07时07分"
+        },
+        {
+          "title": "中国航天日",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -209,41 +236,6 @@
           "time_info": "[01时58分 ~ 04时07分]"
         },
         {
-          "title": "微软向 7% 的美国员工提供自愿退休方案，工龄与年龄之和需达 70，如何看待这个设计？是变相「裁员」吗？",
-          "url": "https://www.zhihu.com/question/2030799140410619849",
-          "source": "知乎",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
-        },
-        {
-          "title": "中国航天日",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
-        },
-        {
-          "title": "多名中国公民被诱骗经泰国前往泰缅边境从事电诈活动，中使馆提醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33043055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
-        },
-        {
           "title": "中国4艘战舰练兵菲周边海域，无人机出动、主炮轮番开火",
           "url": "https://news.ifeng.com/c/8saZkqrTC6H",
           "source": "凤凰网",
@@ -251,20 +243,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
         },
         {
-          "title": "核动力航母对中国海军有哪些意义",
-          "url": "https://www.toutiao.com/trending/7632292117875789348/",
-          "source": "今日头条",
+          "title": "多名中国公民被诱骗经泰国前往泰缅边境从事电诈活动，中使馆提醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33043055",
+          "source": "澎湃新闻",
           "ranks": [
             6,
-            19
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
         },
         {
           "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
@@ -274,8 +266,163 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
+          "url": "https://flash.jin10.com/detail/20260425033951908800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
+          "time_info": "[04时07分 ~ 07时07分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX铜期货投机性净多头寸增加6995手至59132手。",
+          "url": "https://flash.jin10.com/detail/20260425033416429800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时07分 ~ 07时07分]"
+        },
+        {
+          "title": "核动力航母对中国海军有哪些意义",
+          "url": "https://www.toutiao.com/trending/7632292117875789348/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "中方反对美方污蔑抹黑中国AI产业",
+          "url": "https://www.douyin.com/hot/2477525",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX白银期货投机性净多头寸减少2184手至8863手。",
+          "url": "https://flash.jin10.com/detail/20260425033333730800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时07分 ~ 07时07分]"
+        },
+        {
+          "title": "ENC官宣教练,中国队暂无音讯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353685&amp;topic_name=ENC%E5%AE%98%E5%AE%A3%E6%95%99%E7%BB%83%2C%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9A%82%E6%97%A0%E9%9F%B3%E8%AE%AF",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "中国羽毛球协会主席张军疑“失联”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E7%96%91%E2%80%9C%E5%A4%B1%E8%81%94%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "美国女子在印度遭民宿员工下药强奸",
+          "url": "https://www.toutiao.com/trending/7631267724748324890/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "tplink神发言:我们是美国企业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353669&amp;topic_name=tplink%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E6%88%91%E4%BB%AC%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "中国海军：我只出一剑谁敢接招",
+          "url": "https://www.toutiao.com/trending/7631168553462349843/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时07分 ~ 07时07分]"
+        },
+        {
+          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX黄金期货投机性净多头寸减少3354手至95498手。",
+          "url": "https://flash.jin10.com/detail/20260425033308849800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时07分 ~ 07时07分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，投机者将CBOT美国2年期国债期货净空头寸增加39547手至1743353手，美国5年期国债期货净空头寸减少92995手至1532750手，美国10年期国债期货净空头寸减少9394手至790971手，超长期国债期货净空头寸减少536手至300287手。",
+          "url": "https://flash.jin10.com/detail/20260425033224103800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时07分 ~ 07时07分]"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -290,73 +437,27 @@
           "time_info": "[01时58分 ~ 04时07分]"
         },
         {
-          "title": "ENC官宣教练,中国队暂无音讯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353685&amp;topic_name=ENC%E5%AE%98%E5%AE%A3%E6%95%99%E7%BB%83%2C%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9A%82%E6%97%A0%E9%9F%B3%E8%AE%AF",
-          "source": "贴吧",
+          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，NYMEX、ICE市场的天然气期货净空头寸增加9557手至22734手。",
+          "url": "https://flash.jin10.com/detail/20260425033024773800",
+          "source": "金十数据",
           "ranks": [
-            11
+            8,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
-        },
-        {
-          "title": "中方反对美方污蔑抹黑中国AI产业",
-          "url": "https://www.douyin.com/hot/2477525",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
-        },
-        {
-          "title": "中国羽毛球协会主席张军疑“失联”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E7%96%91%E2%80%9C%E5%A4%B1%E8%81%94%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
+          "time_info": "[04时07分 ~ 07时07分]"
         },
         {
           "title": "美国女子在印度遭民宿员工下药强奸",
-          "url": "https://www.toutiao.com/trending/7631267724748324890/",
-          "source": "今日头条",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%8D%B0%E5%BA%A6%E9%81%AD%E6%B0%91%E5%AE%BF%E5%91%98%E5%B7%A5%E4%B8%8B%E8%8D%AF%E5%BC%BA%E5%A5%B8%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            14,
-            16
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
-        },
-        {
-          "title": "tplink神发言:我们是美国企业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353669&amp;topic_name=tplink%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E6%88%91%E4%BB%AC%E6%98%AF%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 04时07分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX黄金期货投机性净多头寸减少3354手至95498手。",
-          "url": "https://flash.jin10.com/detail/20260425033308849800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时07分"
+          "time_info": "[07时06分 ~ 07时07分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：4月21日当周，投机者所持NYMEX WTI原油净多头头寸减少842手合约，至143,401手合约。 所持布伦特与WTI原油净多头头寸增至497,330手合约。 所持NYMEX汽油净多头头寸增至58,048手合约，所持NYMEX柴油净多头头寸降低至14,014手合约、创九周新低。 所持NYMEX天然气净多头头寸降低至50,425手合约，创大约17个月新低。",
@@ -365,7 +466,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -379,17 +480,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，投机者将CBOT美国2年期国债期货净空头寸增加39547手至1743353手，美国5年期国债期货净空头寸减少92995手至1532750手，美国10年期国债期货净空头寸减少9394手至790971手，超长期国债期货净空头寸减少536手至300287手。",
-          "url": "https://flash.jin10.com/detail/20260425033224103800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时07分"
         },
         {
           "title": "美国媒体称伊朗议长将缺席下一轮巴基斯坦会谈，但被伊朗媒体否认",
@@ -420,7 +510,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -436,37 +526,26 @@
           "time_info": "01时58分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，NYMEX、ICE市场的天然气期货净空头寸增加9557手至22734手。",
-          "url": "https://flash.jin10.com/detail/20260425033024773800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "中国海军：我只出一剑谁敢接招",
-          "url": "https://www.toutiao.com/trending/7631168553462349843/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，WTI原油期货投机性净多头寸增加5332手至111915手。",
           "url": "https://flash.jin10.com/detail/20260425032947049800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "伊朗：不与美国官员会面，但将通过巴基斯坦转达意见",
+          "url": "https://wallstreetcn.com/livenews/3094314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
@@ -491,13 +570,35 @@
           "time_info": "01时58分"
         },
         {
+          "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
+          "url": "https://wallstreetcn.com/livenews/3094313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "报道：委内瑞拉与美国洽谈安插反对派到央行的董事会",
+          "url": "https://wallstreetcn.com/livenews/3094312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "据伊朗国家电视台记者：伊朗外交部长阿拉齐在伊斯兰堡没有安排与美国的会晤，但巴基斯坦可以传达伊朗对结束冲突的关切。",
           "url": "https://flash.jin10.com/detail/20260425032233344800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -563,7 +664,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -585,7 +686,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -607,9 +708,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "特朗普：只要半句话，美国就能省下1590亿美元",
+          "url": "https://flash.jin10.com/detail/20260425035056520800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "美国4月24日当周石油钻井数 407，前值 410。",
@@ -629,7 +741,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -640,7 +752,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -662,7 +774,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -684,7 +796,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -695,7 +807,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -706,9 +818,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "美国国务院：国务卿卢比奥与意大利外长Tajani讨论霍尔木兹海峡与中东安全问题。",
+          "url": "https://wallstreetcn.com/livenews/3094301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "美国总统特朗普：伊朗计划提出一项旨在解决美方要求的方案。",
@@ -717,7 +840,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         },
@@ -728,9 +851,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（4月24日），美国科技股七巨头（Magnificent 7）指数涨2.08%，报213.18点，本周累计上涨1.19%。 “超大”市值科技股指数涨3.04%，报421.45点，本周累涨2.94%。",
+          "url": "https://wallstreetcn.com/livenews/3094299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "以色列总理：与特朗普就伊朗问题进行了一次“极好的谈话”",
@@ -744,6 +878,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "美联储：美国上周银行存款19.099万亿美元，之前一周19.056万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3094296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "特朗普政府持有的英特尔股份价值飙升300%",
           "url": "https://wallstreetcn.com/livenews/3094213",
           "source": "华尔街见闻-快讯",
@@ -753,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美国CFTC：起诉纽约州，来确立我们对预测市场的监管权",
+          "url": "https://wallstreetcn.com/livenews/3094294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "美国延长“船禁”豁免90天以应对供应短缺",
@@ -805,7 +961,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         }
