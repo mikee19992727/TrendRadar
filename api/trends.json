@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T03:59:01.224017+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-04-26T05:56:13.975824+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 中国 广东 特朗普",
-      "match_count": 58,
+      "match_count": 67,
       "titles": [
         {
           "title": "3 月一线城市房价环比全线上涨，摩根大通称中国楼市逼近拐点，该观点基于什么逻辑？普通人又该如何应对？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "巴基斯坦迎来一贵客，美国激动坏了",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "揭秘中国地面空间站的硬核实力",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "审美高级!中国航天海报被爆赞",
@@ -61,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "开局之年看中国",
@@ -72,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
@@ -84,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "“我还会再来 我喜欢中国！”",
@@ -95,8 +95,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "德黑兰机场复航：滞留人群迎转机，飞往中国客运航班未成行",
@@ -106,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "中国基建太硬核,美博主看傻眼",
@@ -117,8 +117,45 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
+        },
+        {
+          "title": "美国富豪巨资非洲打猎被5头大象踩死",
+          "url": "https://www.toutiao.com/trending/7632014969789481001/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
+        },
+        {
+          "title": "视频丨五角大楼附近巴士相撞致23人伤，包括10名美国防部人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33051012",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
+        },
+        {
+          "title": "有哪些在外国很常见，在中国不常见的东西？",
+          "url": "https://www.zhihu.com/question/61729054",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "美国总统特朗普给一位身在伊斯兰堡的《纽约邮报》记者发了一条私信：“回家吧。”",
@@ -132,27 +169,26 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美国白宫：伊朗不能拥有核武器。就是这么简单。",
-          "url": "https://flash.jin10.com/detail/20260426032621484800",
-          "source": "金十数据",
+          "title": "欧盟对俄制裁列单中国企业，商务部回应",
+          "url": "https://news.ifeng.com/c/8scLrtJqc3W",
+          "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "视频丨五角大楼附近巴士相撞致23人伤，包括10名美国防部人员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33051012",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
+        },
+        {
+          "title": "伊朗摧毁境内多个受美国和以色列支持的团体",
+          "url": "https://news.ifeng.com/c/8scFf7ecf3Y",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "据半岛电视台：美国财长贝森特称，伊斯兰革命卫队正试图将越来越多的资金转移到其海外账户中。",
@@ -166,51 +202,6 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美国总统特朗普在加密货币会议上警告银行家们不要阻碍加密货币立法的推进。",
-          "url": "https://flash.jin10.com/detail/20260426031349509800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国富豪巨资非洲打猎被5头大象踩死",
-          "url": "https://www.toutiao.com/trending/7632014969789481001/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
-        },
-        {
-          "title": "欧盟对俄制裁列单中国企业，商务部回应",
-          "url": "https://news.ifeng.com/c/8scLrtJqc3W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
-        },
-        {
-          "title": "伊朗摧毁境内多个受美国和以色列支持的团体",
-          "url": "https://news.ifeng.com/c/8scFf7ecf3Y",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
-        },
-        {
           "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33053095",
           "source": "澎湃新闻",
@@ -218,8 +209,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "特朗普，已经压不住油价了",
@@ -229,8 +220,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
+        },
+        {
+          "title": "美国中央司令部：自封锁开始以来，已有37艘船只被重新引导。",
+          "url": "https://flash.jin10.com/detail/20260426050044844800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "美国富豪非洲打猎被5头大象踩死",
@@ -238,22 +240,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
-        },
-        {
-          "title": "有哪些在外国很常见，在中国不常见的东西？",
-          "url": "https://www.zhihu.com/question/61729054",
-          "source": "知乎",
-          "ranks": [
+            29,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "美国防长称美军每年都应获和平奖遭网友批评",
@@ -264,8 +256,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "视频：中国发射一颗巴基斯坦卫星",
@@ -275,8 +267,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "为什么中国没有把土豆列为主食之一呢？",
@@ -287,8 +279,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "欧盟第20轮对俄制裁列单中国企业，商务部回应",
@@ -299,8 +291,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "ENC官宣教练,中国队暂无音讯",
@@ -310,8 +302,32 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时56分]"
+        },
+        {
+          "title": "美国白宫：伊朗不能拥有核武器。就是这么简单。",
+          "url": "https://flash.jin10.com/detail/20260426032621484800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 05时56分]"
+        },
+        {
+          "title": "美国总统特朗普在加密货币会议上警告银行家们不要阻碍加密货币立法的推进。",
+          "url": "https://flash.jin10.com/detail/20260426031349509800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 05时56分]"
         },
         {
           "title": "“淡化”特朗普 美共和党调整中期选举策略",
@@ -321,8 +337,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "美国为打击伊朗找理由 法律专家批“毫无说服力”",
@@ -332,8 +348,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时56分]"
         },
         {
           "title": "商务部新闻发言人就欧盟第20轮对俄制裁列单中国企业答记者问",
@@ -343,8 +359,19 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时56分]"
+        },
+        {
+          "title": "美国为何害怕中国大蒜",
+          "url": "https://www.toutiao.com/trending/7632497198902693386/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时59分]"
+          "time_info": "[05时55分 ~ 05时56分]"
         },
         {
           "title": "中国科学家发布智能科研工具",
@@ -356,6 +383,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时58分 ~ 03时59分]"
+        },
+        {
+          "title": "洪秀柱：两岸应携手让中国风蓬勃发展",
+          "url": "https://www.toutiao.com/trending/7632662719023284265/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 05时56分]"
         },
         {
           "title": "中国成功发射巴基斯坦PRSC-EO3卫星",
@@ -380,6 +418,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美国中央司令部：我们继续对伊朗港口实施海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260426050019917800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "美国众议院议员南希：通过《拯救美国法案》，捍卫我们的选举安全。",
           "url": "https://flash.jin10.com/detail/20260426004628460800",
           "source": "金十数据",
@@ -389,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "美国中央司令部：在阿拉伯海拦截了一艘与伊朗有关的船只。",
+          "url": "https://flash.jin10.com/detail/20260426045635054800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "墨西哥安全内阁表示，在墨西哥发生的车祸中遇难的两名美国特工中，一名是以游客身份入境，另一名持有外交护照。",
@@ -408,7 +468,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -430,9 +490,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "据华尔街日报：伊朗谈判代表已向美方传递信息，要求美国总统特朗普缓和其威胁性言论，并认为更温和的言辞将有助于伊朗强硬派更愿意参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260426043427804800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "据半岛电视台：美国总统特朗普谈结束伊朗停火：“我甚至都没想过这事儿。”",
@@ -441,9 +512,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "据华尔街日报援引伊朗外交官和消息人士的话报道，美国和伊朗代表团可能在未来几天内举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260426042639195800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "美国总统特朗普谈伊朗：在取消巴基斯坦谈判10分钟后收到一份新提议。",
@@ -452,7 +534,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -463,7 +545,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -474,7 +556,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -496,7 +578,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -518,7 +600,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -529,9 +611,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
+          "url": "https://flash.jin10.com/detail/20260426034614966800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "美国总统特朗普表示，尚未考虑恢复战争。",
@@ -573,7 +666,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -584,7 +677,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -606,9 +699,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
+          "url": "https://flash.jin10.com/detail/20260426033155583800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "特朗普告诉Axios记者：“我们掌握了一切。我们不会去那儿闲聊无事。”",
