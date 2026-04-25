@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T17:40:47.749092+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-04-25T19:58:56.523075+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 中国 广东 特朗普",
-      "match_count": 117,
+      "match_count": 134,
       "titles": [
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -54,6 +54,19 @@
           "time_info": "[01时58分 ~ 07时07分]"
         },
         {
+          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时06分 ~ 19时58分]"
+        },
+        {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
           "url": "https://news.ifeng.com/c/8saNhgKa31P",
           "source": "凤凰网",
@@ -63,6 +76,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时58分 ~ 07时07分]"
+        },
+        {
+          "title": "审美高级!中国航天海报被爆赞",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353720&amp;topic_name=%E5%AE%A1%E7%BE%8E%E9%AB%98%E7%BA%A7%21%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%B5%B7%E6%8A%A5%E8%A2%AB%E7%88%86%E8%B5%9E",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 19时58分]"
+        },
+        {
+          "title": "巴基斯坦迎来一贵客，美国激动坏了",
+          "url": "https://news.ifeng.com/c/8sbUcjlB3YO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 19时58分]"
+        },
+        {
+          "title": "中国基建太硬核,美博主看傻眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353721&amp;topic_name=%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E5%A4%AA%E7%A1%AC%E6%A0%B8%2C%E7%BE%8E%E5%8D%9A%E4%B8%BB%E7%9C%8B%E5%82%BB%E7%9C%BC",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 19时58分]"
         },
         {
           "title": "摩根大通：中国楼市逼近拐点",
@@ -77,52 +126,29 @@
           "time_info": "[04时07分 ~ 07时07分]"
         },
         {
-          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
-          "url": "https://wallstreetcn.com/articles/3770826",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时06分 ~ 17时40分]"
-        },
-        {
-          "title": "中国基建太硬核,美博主看傻眼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353721&amp;topic_name=%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E5%A4%AA%E7%A1%AC%E6%A0%B8%2C%E7%BE%8E%E5%8D%9A%E4%B8%BB%E7%9C%8B%E5%82%BB%E7%9C%BC",
+          "title": "ENC官宣教练,中国队暂无音讯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353685&amp;topic_name=ENC%E5%AE%98%E5%AE%A3%E6%95%99%E7%BB%83%2C%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9A%82%E6%97%A0%E9%9F%B3%E8%AE%AF",
           "source": "贴吧",
           "ranks": [
-            1,
-            2
+            11,
+            19,
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 17时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 19时58分]"
         },
         {
-          "title": "审美高级!中国航天海报被爆赞",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353720&amp;topic_name=%E5%AE%A1%E7%BE%8E%E9%AB%98%E7%BA%A7%21%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%B5%B7%E6%8A%A5%E8%A2%AB%E7%88%86%E8%B5%9E",
-          "source": "贴吧",
+          "title": "探索月球南极 中国航天未来这么干",
+          "url": "https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E6%9C%88%E7%90%83%E5%8D%97%E6%9E%81+%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%9C%AA%E6%9D%A5%E8%BF%99%E4%B9%88%E5%B9%B2",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时03分 ~ 17时40分]"
-        },
-        {
-          "title": "巴基斯坦迎来一贵客，美国激动坏了",
-          "url": "https://news.ifeng.com/c/8sbUcjlB3YO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 17时40分]"
+          "time_info": "[17时40分 ~ 19时58分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -135,6 +161,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 04时07分]"
+        },
+        {
+          "title": "巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33045918",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 19时58分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -220,28 +259,15 @@
           "time_info": "[01时58分 ~ 17时40分]"
         },
         {
-          "title": "ENC官宣教练,中国队暂无音讯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353685&amp;topic_name=ENC%E5%AE%98%E5%AE%A3%E6%95%99%E7%BB%83%2C%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9A%82%E6%97%A0%E9%9F%B3%E8%AE%AF",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 17时40分]"
-        },
-        {
-          "title": "中国经济第一大省亮出王牌",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E4%BA%AE%E5%87%BA%E7%8E%8B%E7%89%8C",
-          "source": "百度热搜",
+          "title": "特朗普最新不满意率公布",
+          "url": "https://www.toutiao.com/trending/7632256719716122665/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "19时58分"
         },
         {
           "title": "据以色列第12频道：以色列安全官员表示，美国在停火前几天对以色列在黎巴嫩某些地区的行动施加了限制。",
@@ -301,17 +327,6 @@
           "time_info": "14时03分"
         },
         {
-          "title": "探索月球南极 中国航天未来这么干",
-          "url": "https://www.baidu.com/s?wd=%E6%8E%A2%E7%B4%A2%E6%9C%88%E7%90%83%E5%8D%97%E6%9E%81+%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%9C%AA%E6%9D%A5%E8%BF%99%E4%B9%88%E5%B9%B2",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：4月21日当周，投机者所持COMEX黄金净多头头寸减少3,352手合约，至95,498手合约。 所持COMEX白银净多头头寸降低至8,863手合约，创七周新低。 所持COMEX铜净多头头寸增至59,132手合约，创逾三个月新高。 减持NYMEX铂金净多头头寸。 增持NYMEX钯金净空头头寸。",
           "url": "https://wallstreetcn.com/livenews/3094277",
           "source": "华尔街见闻-快讯",
@@ -358,16 +373,42 @@
           "time_info": "[01时58分 ~ 07时07分]"
         },
         {
-          "title": "巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33045918",
+          "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044133",
           "source": "澎湃新闻",
           "ranks": [
+            11,
             7,
-            3
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 19时58分]"
+        },
+        {
+          "title": "美国为何害怕中国大蒜",
+          "url": "https://www.toutiao.com/trending/7632497198902693386/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 19时58分]"
+        },
+        {
+          "title": "中国经济第一大省亮出王牌",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E4%BA%AE%E5%87%BA%E7%8E%8B%E7%89%8C",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时03分 ~ 17时40分]"
+          "time_info": "[17时40分 ~ 19时58分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -416,18 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时07分 ~ 14时03分]"
-        },
-        {
-          "title": "美国为何害怕中国大蒜",
-          "url": "https://www.toutiao.com/trending/7632497198902693386/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 17时40分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX铜期货投机性净多头寸增加6995手至59132手。",
@@ -514,6 +543,17 @@
           "time_info": "[01时58分 ~ 07时07分]"
         },
         {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 19时58分]"
+        },
+        {
           "title": "中国海军：我只出一剑谁敢接招",
           "url": "https://www.toutiao.com/trending/7631168553462349843/",
           "source": "今日头条",
@@ -550,35 +590,12 @@
           "time_info": "[14时03分 ~ 17时40分]"
         },
         {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 17时40分]"
-        },
-        {
           "title": "美国为何害怕中国大蒜",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AE%B3%E6%80%95%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C",
           "source": "百度热搜",
           "ranks": [
             7,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 17时40分]"
-        },
-        {
-          "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044133",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -645,6 +662,18 @@
           "time_info": "[07时07分 ~ 14时03分]"
         },
         {
+          "title": "视频丨五角大楼附近巴士相撞致23人伤，包括10名美国防部人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33051012",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 19时58分]"
+        },
+        {
           "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
           "url": "https://wallstreetcn.com/livenews/3094313",
           "source": "华尔街见闻-快讯",
@@ -655,6 +684,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时07分 ~ 14时03分]"
+        },
+        {
+          "title": "美国富豪遭5头大象踩踏身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E9%81%AD5%E5%A4%B4%E5%A4%A7%E8%B1%A1%E8%B8%A9%E8%B8%8F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 19时58分]"
         },
         {
           "title": "日本自卫队坦克炸膛涉“中国制造”？且此“中国”非中国",
@@ -738,6 +779,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "据路透社：参与（巴总理与伊朗外长）会谈的一位巴基斯坦消息人士称，伊朗外长阿拉格奇已表达了伊朗方面的要求，以及他们对美国所提要求的保留意见。",
+          "url": "https://flash.jin10.com/detail/20260425185646615800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：4月21日当周，投机者所持NYMEX WTI原油净多头头寸减少842手合约，至143,401手合约。 所持布伦特与WTI原油净多头头寸增至497,330手合约。 所持NYMEX汽油净多头头寸增至58,048手合约，所持NYMEX柴油净多头头寸降低至14,014手合约、创九周新低。 所持NYMEX天然气净多头头寸降低至50,425手合约，创大约17个月新低。",
           "url": "https://wallstreetcn.com/livenews/3094275",
           "source": "华尔街见闻-快讯",
@@ -747,6 +799,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "中国驻马里大使馆发布关于马里突发安全事件的领事提醒",
+          "url": "https://wallstreetcn.com/livenews/3094378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "伊朗摧毁境内多个受美国和以色列支持的团体",
+          "url": "https://news.ifeng.com/c/8scFf7ecf3Y",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "白宫：特朗普对联邦调查局局长有信心。",
@@ -804,6 +878,28 @@
           "time_info": "01时58分"
         },
         {
+          "title": "据沙特阿拉比亚电视台：伊朗人更愿意与美国副总统万斯进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260425184426315800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，WTI原油期货投机性净多头寸增加5332手至111915手。",
           "url": "https://flash.jin10.com/detail/20260425032947049800",
           "source": "金十数据",
@@ -813,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "参与（巴总理与伊朗外长）会谈的一位巴基斯坦消息人士称，伊朗外长阿拉格奇已表达了伊朗方面的要求，以及他们对美国所提要求的保留意见。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3094373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
@@ -848,15 +955,37 @@
           "time_info": "14时03分"
         },
         {
-          "title": "视频丨五角大楼附近巴士相撞致23人伤，包括10名美国防部人员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33051012",
-          "source": "澎湃新闻",
+          "title": "据沙特阿拉比亚电视台：一位伊朗外交消息人士表示，伊朗不会坐到一个由美国设定红线的谈判桌前。伊朗准备谈判，但不会投降，且伊朗已向巴基斯坦领导层重申其结束威胁和封锁的承诺。",
+          "url": "https://flash.jin10.com/detail/20260425183551651800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "美国白宫要增设建筑“微缩版”蜂箱",
+          "url": "https://wallstreetcn.com/livenews/3094372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "美国富豪非洲打猎被5头大象踩死",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E9%9D%9E%E6%B4%B2%E6%89%93%E7%8C%8E%E8%A2%AB5%E5%A4%B4%E5%A4%A7%E8%B1%A1%E8%B8%A9%E6%AD%BB",
+          "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "19时58分"
         },
         {
           "title": "据伊朗国家电视台记者：伊朗外交部长阿拉齐在伊斯兰堡没有安排与美国的会晤，但巴基斯坦可以传达伊朗对结束冲突的关切。",
@@ -868,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
+          "url": "https://flash.jin10.com/detail/20260425182954538800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "伊朗主动联系，白宫确认：美国特使Witkoff与库什纳周六将前往巴基斯坦，万斯“随时待命”",
@@ -892,6 +1032,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "伊朗摧毁境内多个受美国和以色列支持的团体",
+          "url": "https://wallstreetcn.com/livenews/3094369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "美国至4月24日当周总钻井总数 544口，前值543口。",
           "url": "https://flash.jin10.com/detail/20260425010126183800",
           "source": "金十数据",
@@ -912,6 +1063,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "美媒：伊朗对与美国谈判持开放态度，但坚持其铀浓缩权利",
+          "url": "https://flash.jin10.com/detail/20260425181644019800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "美国4月24日当周天然气钻井数 129，前值 125。",
@@ -969,6 +1131,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "美国迎接英国王 错挂澳大利亚国旗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%BF%8E%E6%8E%A5%E8%8B%B1%E5%9B%BD%E7%8E%8B+%E9%94%99%E6%8C%82%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%9B%BD%E6%97%97",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "美国共和党参议员蒂姆·斯科特邀请美联储监察长就大楼翻新调查向参议院委员会作简要说明。",
           "url": "https://flash.jin10.com/detail/20260425010015043800",
           "source": "金十数据",
@@ -1008,9 +1181,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "美国驻马里大使馆：据报道，马里卡蒂及巴马科机场附近发生爆炸和枪击事件，美国公民应就地避难。",
+          "url": "https://flash.jin10.com/detail/20260425180319045800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "美国4月24日当周石油钻井数 407，前值 410。",
@@ -1055,6 +1239,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "广东电价突然飙升，4月多次逼近1元/度",
+          "url": "https://wallstreetcn.com/livenews/3094363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "美国富豪巨资非洲打猎被5头大象踩死",
+          "url": "https://www.toutiao.com/trending/7632014969789481001/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "美国总统特朗普：计划下周与英国查尔斯国王讨论包括伊朗、北约和数字服务税在内的多个议题。",
@@ -1184,7 +1390,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -1321,24 +1527,13 @@
           "time_info": "04时07分"
         },
         {
-          "title": "美国富豪遭5头大象踩踏身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E9%81%AD5%E5%A4%B4%E5%A4%A7%E8%B1%A1%E8%B8%A9%E8%B8%8F%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "上海航交所：本周中国出口集装箱运输市场总体稳定 多数航线运价小幅回落",
           "url": "https://flash.jin10.com/detail/20260425141729485800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
