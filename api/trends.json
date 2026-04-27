@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T15:59:38.880798+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-04-27T21:10:04.692107+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 中国 广东 特朗普",
-      "match_count": 124,
+      "match_count": 141,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -74,6 +74,19 @@
           "time_info": "[01时12分 ~ 08时01分]"
         },
         {
+          "title": "巴基斯坦总统对中国产品爱不释手",
+          "url": "https://www.toutiao.com/trending/7633020427748638783/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普：枪手已被捕；枪击现场视频曝光",
           "url": "https://www.cls.cn/detail/2355838",
           "source": "财联社热门",
@@ -96,6 +109,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时12分 ~ 08时01分]"
+        },
+        {
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 21时10分]"
         },
         {
           "title": "和平谈判未能重启！特朗普取消美方特使赴巴基斯坦行程",
@@ -131,6 +158,17 @@
           "time_info": "[01时12分 ~ 05时57分]"
         },
         {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 21时10分]"
+        },
+        {
           "title": "75 岁美国富豪猎人在非洲加蓬狩猎遭象群踩踏身亡，这次意外暴露了哪些问题？",
           "url": "https://www.zhihu.com/question/2031425348554989686",
           "source": "知乎",
@@ -144,6 +182,53 @@
           "time_info": "[04时01分 ~ 08时01分]"
         },
         {
+          "title": "filco倒闭,中国制造持续发力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353750&amp;topic_name=filco%E5%80%92%E9%97%AD%2C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E6%8C%81%E7%BB%AD%E5%8F%91%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 21时10分]"
+        },
+        {
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "白宫遭枪击,特朗普紧急撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 21时10分]"
+        },
+        {
+          "title": "刺杀频发，美国进入“肉体消灭政治对手”的新时代？",
+          "url": "https://v.ifeng.com/c/8sfUke8wwXP",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普否认枪击事件与伊朗战争有关",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
           "source": "bilibili 热搜",
@@ -151,19 +236,6 @@
             6,
             4,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 15时59分]"
-        },
-        {
-          "title": "巴基斯坦总统对中国产品爱不释手",
-          "url": "https://www.toutiao.com/trending/7633020427748638783/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10,
-            19
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -182,26 +254,48 @@
           "time_info": "[01时12分 ~ 08时01分]"
         },
         {
-          "title": "中国海军强势“围观”美日菲军演",
-          "url": "https://www.toutiao.com/trending/7633285262159711770/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "中国海军强势“围观”美日菲军演",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%BC%BA%E5%8A%BF%E2%80%9C%E5%9B%B4%E8%A7%82%E2%80%9D%E7%BE%8E%E6%97%A5%E8%8F%B2%E5%86%9B%E6%BC%94",
+          "title": "中国最强老太太：我是被儿子骗去的",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%BC%BA%E8%80%81%E5%A4%AA%E5%A4%AA%EF%BC%9A%E6%88%91%E6%98%AF%E8%A2%AB%E5%84%BF%E5%AD%90%E9%AA%97%E5%8E%BB%E7%9A%84",
           "source": "百度热搜",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "外交部回应美国制裁中企：将坚决维护本国企业的合法权益",
+          "url": "https://www.cls.cn/detail/2356631",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "CNN唏嘘：政治暴力日益加剧，正威胁美国民主的基本仪式",
+          "url": "https://news.ifeng.com/c/8sfTosNZKUu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "美国以涉伊朗为由制裁中企 中方表态",
+          "url": "https://www.toutiao.com/trending/7632821618738167818/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "美伊和谈未重启？特朗普称想谈可致电美国，伊朗提出“三阶段谈判方案”！",
@@ -210,7 +304,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -232,7 +326,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -254,7 +348,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -265,7 +359,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -276,18 +370,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -316,6 +399,18 @@
           "time_info": "[01时12分 ~ 08时01分]"
         },
         {
+          "title": "中国海军强势“围观”美日菲军演",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%BC%BA%E5%8A%BF%E2%80%9C%E5%9B%B4%E8%A7%82%E2%80%9D%E7%BE%8E%E6%97%A5%E8%8F%B2%E5%86%9B%E6%BC%94",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 21时10分]"
+        },
+        {
           "title": "美国参议员蒂利斯：已准备好推进沃什的美联储主席提名确认",
           "url": "https://wallstreetcn.com/livenews/3094540",
           "source": "华尔街见闻-快讯",
@@ -329,13 +424,25 @@
           "time_info": "[01时12分 ~ 08时01分]"
         },
         {
+          "title": "中国海军强势“围观”美日菲军演",
+          "url": "https://www.toutiao.com/trending/7633285262159711770/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 21时10分]"
+        },
+        {
           "title": "白宫记协晚宴枪手事发前有“宣言” 自称对特朗普政府不满",
           "url": "https://www.cls.cn/detail/2356161",
           "source": "财联社热门",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -351,27 +458,16 @@
           "time_info": "08时01分"
         },
         {
-          "title": "filco倒闭,中国制造持续发力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353750&amp;topic_name=filco%E5%80%92%E9%97%AD%2C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E6%8C%81%E7%BB%AD%E5%8F%91%E5%8A%9B",
-          "source": "贴吧",
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            19
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 15时59分]"
-        },
-        {
-          "title": "中国首次实现批量克隆10头牦牛",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E6%89%B9%E9%87%8F%E5%85%8B%E9%9A%8610%E5%A4%B4%E7%89%A6%E7%89%9B",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 21时10分]"
         },
         {
           "title": "晚宴枪声，释放了美国一个危险信号",
@@ -380,7 +476,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -410,17 +506,16 @@
           "time_info": "[01时12分 ~ 15时59分]"
         },
         {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
-          "source": "澎湃新闻",
+          "title": "中国首次实现批量克隆10头牦牛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E6%89%B9%E9%87%8F%E5%85%8B%E9%9A%8610%E5%A4%B4%E7%89%A6%E7%89%9B",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            19,
-            7
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 15时59分]"
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 21时10分]"
         },
         {
           "title": "枪击发生时特朗普旁的华裔女记者是谁",
@@ -444,18 +539,6 @@
             17,
             18,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 15时59分]"
-        },
-        {
-          "title": "白宫遭枪击,特朗普紧急撤离",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            28
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -643,6 +726,30 @@
           "time_info": "[04时01分 ~ 08时01分]"
         },
         {
+          "title": "重访“新闻名篇”｜“中国的西北角”早已变成塞上粮仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33054750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 21时10分]"
+        },
+        {
+          "title": "中国海军强势“围观”美日菲军演",
+          "url": "https://www.douyin.com/hot/2480295",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 21时10分]"
+        },
+        {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：我期待着支持（参议院）确认沃什的美联储主席提名资格。",
           "url": "https://wallstreetcn.com/livenews/3094536",
           "source": "华尔街见闻-快讯",
@@ -677,6 +784,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 05时57分]"
+        },
+        {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 21时10分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
@@ -716,6 +835,18 @@
           "time_info": "[01时12分 ~ 05时57分]"
         },
         {
+          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 21时10分]"
+        },
+        {
           "title": "借口白宫记协晚宴安全事件，特朗普要求撤销针对宴会厅建设项目的诉讼",
           "url": "https://wallstreetcn.com/livenews/3094523",
           "source": "华尔街见闻-快讯",
@@ -726,6 +857,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 05时57分]"
+        },
+        {
+          "title": "轰炸中伊朗国宝来到中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 21时10分]"
         },
         {
           "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
@@ -764,6 +907,28 @@
           "time_info": "[01时12分 ~ 05时57分]"
         },
         {
+          "title": "美博主感叹：为何美国买不到中国车",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8D%9A%E4%B8%BB%E6%84%9F%E5%8F%B9%EF%BC%9A%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E4%B9%B0%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "穆迪维持中国主权信用评级“A1”，并将展望调升至“稳定” 财政部发声",
+          "url": "https://www.cls.cn/detail/2356962",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普：希望伊朗主动联系美国",
           "url": "https://flash.jin10.com/detail/20260427002516941800",
           "source": "金十数据",
@@ -774,6 +939,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 04时01分]"
+        },
+        {
+          "title": "韩国散户“扫货全球半导体”：中国PCB牛股进入TOP50龙虎榜",
+          "url": "https://www.cls.cn/detail/2356707",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
@@ -907,6 +1083,17 @@
           "time_info": "[04时01分 ~ 05时57分]"
         },
         {
+          "title": "丁俊晖：中国斯诺克拓荒者",
+          "url": "https://www.toutiao.com/trending/7633398161590980159/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "据卡塔尔国家通讯社：阿联酋外长与美国外长通电话，讨论加强双边关系及地区局势发展。",
           "url": "https://flash.jin10.com/detail/20260427011532602800",
           "source": "金十数据",
@@ -931,6 +1118,17 @@
           "time_info": "[04时01分 ~ 05时57分]"
         },
         {
+          "title": "自导自演晚宴枪击事件？特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%99%9A%E5%AE%B4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗知道协议应该包括什么，他们明白不能拥有核武器，否则就没有必要举行会议。",
           "url": "https://flash.jin10.com/detail/20260427005514669800",
           "source": "金十数据",
@@ -949,7 +1147,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -982,7 +1180,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1007,17 +1205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "中国海军强势“围观”美日菲军演",
-          "url": "https://www.douyin.com/hot/2480295",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
         },
         {
           "title": "油轮追踪数据显示，美国海军拦截后，价值10亿美元的石油货物被重新运回伊朗。",
@@ -1053,6 +1240,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "据CNN：（特朗普今日将与高级顾问举行国家安全会议）官员们将讨论在停火延长后是否恢复美国对伊朗的轰炸行动。",
+          "url": "https://flash.jin10.com/detail/20260427204401859800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "南方多省电价突然飙升，广东 4 月多次逼近 1 元 / 度，为什么会这样？还会上涨吗？",
           "url": "https://www.zhihu.com/question/2031703358826705575",
           "source": "知乎",
@@ -1064,26 +1262,15 @@
           "time_info": "08时01分"
         },
         {
-          "title": "重访“新闻名篇”｜“中国的西北角”早已变成塞上粮仓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33054750",
-          "source": "澎湃新闻",
+          "title": "美国FBI局长帕特尔：今天晚些时候将就枪击事件召开新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3095020",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "21时10分"
         },
         {
           "title": "A股前董事长疑涉美国性侵丑闻",
@@ -1103,7 +1290,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1119,13 +1306,24 @@
           "time_info": "01时12分"
         },
         {
+          "title": "达美乐披萨CEO：承诺在美国实现3%的同店销售增长。",
+          "url": "https://flash.jin10.com/detail/20260427203838817800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "中国欧盟商会与辽宁省委书记许昆林举行会谈",
           "url": "https://flash.jin10.com/detail/20260427152033091800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1136,18 +1334,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1169,7 +1356,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1180,18 +1367,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1205,17 +1381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "轰炸中伊朗国宝来到中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
         },
         {
           "title": "特朗普称伊朗可主动联系美国",
@@ -1257,7 +1422,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1306,6 +1471,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美国国务院发言人帕特尔：今天稍后将举行关于周六枪击事件的新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260427202741992800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "特朗普：伊朗战争很快结束 美国将取胜",
           "url": "https://flash.jin10.com/detail/20260426233506019800",
           "source": "金十数据",
@@ -1326,6 +1502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美国封锁迫使伊朗采取极端措施以继续开采石油",
+          "url": "https://flash.jin10.com/detail/20260427202532909800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "美国总统特朗普：就乌克兰问题与俄罗斯总统普京和乌克兰总统泽连斯基进行过交谈。",
@@ -1427,13 +1614,24 @@
           "time_info": "01时12分"
         },
         {
+          "title": "白宫贸易顾问纳瓦罗：特朗普政府正在调查肉类价格高企问题。",
+          "url": "https://wallstreetcn.com/livenews/3094993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美国已收到伊朗谈判新方案",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%94%B6%E5%88%B0%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E6%96%B0%E6%96%B9%E6%A1%88%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
