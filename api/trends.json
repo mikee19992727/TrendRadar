@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T05:37:28.417412+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-04-28T15:40:53.455640+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 中国 广东 特朗普",
-      "match_count": 62,
+      "match_count": 81,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -74,6 +74,62 @@
           "time_info": "[01时57分 ~ 05时37分]"
         },
         {
+          "title": "千亿民营炼化巨头子公司突遭美国制裁，公司澄清：无端指控、坚决反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062293",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 15时40分]"
+        },
+        {
+          "title": "泰国外长：美国一点忙没帮，我们找中俄",
+          "url": "https://news.ifeng.com/c/8sgcV8GkPtv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
+          "url": "https://www.cls.cn/detail/2357658",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
           "url": "https://flash.jin10.com/detail/20260428014452640800",
           "source": "金十数据",
@@ -91,7 +147,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -106,6 +162,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时57分 ~ 05时37分]"
+        },
+        {
+          "title": "中国又一重大工程开工",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "谈判陷入僵局之际 特朗普与团队就伊朗问题举行磋商",
@@ -130,13 +197,35 @@
           "time_info": "01时58分"
         },
         {
+          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
+          "url": "https://www.cls.cn/detail/2357692",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "美媒：中东美军基地受损程度远比美国公开承认的严重",
+          "url": "https://v.ifeng.com/c/8sfXZIUBNe9",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "默茨：美国就伊朗战事缺乏战略性退出方案",
           "url": "https://flash.jin10.com/detail/20260428042814365800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -210,17 +299,6 @@
           "time_info": "[01时57分 ~ 05时37分]"
         },
         {
-          "title": "千亿民营炼化巨头子公司突遭美国制裁，公司澄清：无端指控、坚决反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062293",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时37分]"
-        },
-        {
           "title": "filco倒闭,中国制造持续发力",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353750&amp;topic_name=filco%E5%80%92%E9%97%AD%2C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E6%8C%81%E7%BB%AD%E5%8F%91%E5%8A%9B",
           "source": "贴吧",
@@ -266,6 +344,17 @@
           "time_info": "[01时57分 ~ 05时37分]"
         },
         {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
           "url": "https://wallstreetcn.com/livenews/3095162",
           "source": "华尔街见闻-快讯",
@@ -275,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "为什么沙发不靠墙的布局，大多数中国家庭都难以接受？",
+          "url": "https://www.zhihu.com/question/1961092724506714892",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "白宫新闻秘书莱维特：你们将很快听到美国总统特朗普关于伊朗的消息。",
@@ -288,13 +388,24 @@
           "time_info": "01时58分"
         },
         {
+          "title": "自导自演白宫记协晚宴枪击事件？特朗普回应",
+          "url": "https://www.cls.cn/detail/2357469",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "英国国王查尔斯三世抵达美国白宫。",
           "url": "https://flash.jin10.com/detail/20260428042229642800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -308,6 +419,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "中国代表安理会严厉驳斥日方",
+          "url": "https://news.ifeng.com/c/8sgZa4FD9Pq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "白宫新闻秘书莱维特：沃什获确认后，特朗普将感到满意。",
@@ -371,9 +504,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "伊朗油轮聚集在恰巴哈尔港附近 紧邻美国封锁线",
+          "url": "https://wallstreetcn.com/livenews/3095530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "CBA季后赛广东vs广州前瞻",
+          "url": "https://www.douyin.com/hot/2482111",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "委内瑞拉中央银行表示，该行与美国均已聘请机构对境外资产进行审计，以确保公正性。",
@@ -393,7 +548,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -404,7 +559,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -426,7 +581,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -448,7 +603,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -459,7 +614,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -481,7 +636,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -492,7 +647,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -506,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "美国白宫：美国总统特朗普将参加重新安排的晚宴。",
@@ -525,7 +691,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -536,7 +702,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -585,6 +751,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普认为新闻晚宴的安全措施有效。",
           "url": "https://flash.jin10.com/detail/20260428011948774800",
           "source": "金十数据",
@@ -602,7 +779,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -624,7 +801,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -651,13 +828,24 @@
           "time_info": "01时58分"
         },
         {
+          "title": "中国商务部部长王文涛部长会见德国汽车工业协会主席穆勒",
+          "url": "https://wallstreetcn.com/livenews/3095511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "美国财长贝森特对参议院Sanders的AI监管立场颇多微词。",
           "url": "https://wallstreetcn.com/livenews/3095210",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -671,6 +859,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "中国据悉考虑再次在伦敦发行绿色主权债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "美媒：特朗普对伊朗新方案不满意",
+          "url": "https://www.toutiao.com/trending/7633339570876170294/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "美国白宫：将召开由幕僚长主持的会议，参与者包括特勤局和国土安全部的工作人员，讨论安全问题。会议将在本周早些时候举行。",
@@ -690,7 +900,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
