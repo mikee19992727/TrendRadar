@@ -1,55 +1,33 @@
 {
-  "generated_at": "2026-04-29T21:12:01.579932+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-04-30T02:59:10.113344+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 中国 广东 特朗普",
-      "match_count": 121,
+      "match_count": 52,
       "titles": [
         {
-          "title": "美拖欠会费还欲施压中国，中方：先把欠费缴清再说话",
-          "url": "https://news.ifeng.com/c/8shG1iI4z0Y",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "外贸屡创新高彰显中国产业链优势",
-          "url": "https://www.toutiao.com/trending/7632920105592340486/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
-          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "中国军号：日本打不起“长期战争”",
-          "url": "https://www.toutiao.com/trending/7634091296285593115/",
+          "title": "中国为何仍要重押油气",
+          "url": "https://www.toutiao.com/trending/7634173331020713515/",
           "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
+        },
+        {
+          "title": "比利时副首相：恭喜中国 叹为观止",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E5%89%AF%E9%A6%96%E7%9B%B8%EF%BC%9A%E6%81%AD%E5%96%9C%E4%B8%AD%E5%9B%BD+%E5%8F%B9%E4%B8%BA%E8%A7%82%E6%AD%A2",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -60,29 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
-        },
-        {
-          "title": "中国军号：日本出兵都是作死",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%87%BA%E5%85%B5%E9%83%BD%E6%98%AF%E4%BD%9C%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
-        },
-        {
-          "title": "报道称美国暂停向华虹供应半导体设备 外交部回应",
-          "url": "https://www.cls.cn/detail/2359468",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
           "title": "钧正平：美国防部欲更名“战争部”，释放令人不安的信号",
@@ -93,29 +49,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
-        },
-        {
-          "title": "特朗普访问英国有何看点",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E8%8B%B1%E5%9B%BD%E6%9C%89%E4%BD%95%E7%9C%8B%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
-        },
-        {
-          "title": "理响中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%90%86%E5%93%8D%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -126,7 +60,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
+        },
+        {
+          "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078698",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -137,319 +82,51 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "中国5月1日起对所有非洲建交国实施零关税",
-          "url": "https://news.ifeng.com/c/8shDrP33CN8",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 15时52分]"
-        },
-        {
-          "title": "美国3月新屋开工率超预期，创一年多以来最高水平",
-          "url": "https://flash.jin10.com/detail/20260429204756532800",
+          "title": "美国总统特朗普：（关于霍尔木兹海峡封锁）这是一项天才且万无一失的策略。",
+          "url": "https://flash.jin10.com/detail/20260430023125319800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "02时59分"
         },
         {
-          "title": "美国参议院否决限制特朗普对古巴动武的决议",
-          "url": "https://wallstreetcn.com/livenews/3096062",
+          "title": "美联储主席鲍威尔在新闻发布会的开场白阶段称：美国经济一直稳步扩张。 就业增速一直偏低，失业率大致持稳。 就业人口增幅放缓，在一定程度上体现出（美国总统特朗普造成的）移民人口下降。 劳动力需求也显然趋于温和。 消费者开支一直稳固。 基于CPI的预测表明，美国3月PCE上升3.5%。 企业固定投资按较快的步伐扩张。 住房市场保持疲软。",
+          "url": "https://wallstreetcn.com/livenews/3096867",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
-          "url": "https://www.cls.cn/detail/2359134",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "美国宣布对35个伊朗相关实体及个人实施制裁",
-          "url": "https://wallstreetcn.com/livenews/3095966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "据伊朗Press TV：也门表示不会对美国针对伊朗的新“冒险主义”持中立态度。",
-          "url": "https://flash.jin10.com/detail/20260429154111192800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "食品供应商Bunge：由于化肥供应情况，预计美国玉米/大豆种植面积不会出现重大转变，而南美可能出现较大变化。",
-          "url": "https://flash.jin10.com/detail/20260429204738683800",
-          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "02时59分"
         },
         {
-          "title": "新中国首条通江达海大运河来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9D%A1%E9%80%9A%E6%B1%9F%E8%BE%BE%E6%B5%B7%E5%A4%A7%E8%BF%90%E6%B2%B3%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "中国新发现一批大中型油气田",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%8F%91%E7%8E%B0%E4%B8%80%E6%89%B9%E5%A4%A7%E4%B8%AD%E5%9E%8B%E6%B2%B9%E6%B0%94%E7%94%B0",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 21时12分]"
-        },
-        {
-          "title": "中国代表敦促恢复中东和海湾地区稳定",
-          "url": "https://wallstreetcn.com/livenews/3096059",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：阿联酋退出欧佩克有助于降低汽油和石油价格。",
+          "url": "https://flash.jin10.com/detail/20260430023027460800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时14分"
+          "time_info": "02时59分"
         },
         {
-          "title": "CBA季后赛广东首场爆冷负广州",
-          "url": "https://www.douyin.com/hot/2482561",
-          "source": "抖音",
+          "title": "中国军号：日本出兵都是作死",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%87%BA%E5%85%B5%E9%83%BD%E6%98%AF%E4%BD%9C%E6%AD%BB",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 15时52分]"
-        },
-        {
-          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
-          "url": "https://www.cls.cn/detail/2358925",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "美国总统特朗普：德国总理默茨不知道自己在伊朗问题上说的啥。",
-          "url": "https://wallstreetcn.com/livenews/3095963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "新中国首条通江达海大运河来了",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9D%A1%E9%80%9A%E6%B1%9F%E8%BE%BE%E6%B5%B7%E5%A4%A7%E8%BF%90%E6%B2%B3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 21时12分]"
-        },
-        {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 15时52分]"
-        },
-        {
-          "title": "中国小伙刷新速度攀岩世界纪录",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%88%B7%E6%96%B0%E9%80%9F%E5%BA%A6%E6%94%80%E5%B2%A9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
-          "url": "https://www.cls.cn/detail/2358468",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "美国国防部正式申请更名为战争部，预计成本5000万美元",
-          "url": "https://news.ifeng.com/c/8siIUtDas1d",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 21时12分]"
-        },
-        {
-          "title": "中方：美国先把欠费缴清再说话",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%85%88%E6%8A%8A%E6%AC%A0%E8%B4%B9%E7%BC%B4%E6%B8%85%E5%86%8D%E8%AF%B4%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "韩国散户，大举加仓中国科技巨头",
-          "url": "https://wallstreetcn.com/articles/3771058",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
-          "url": "https://www.toutiao.com/trending/7632898398869474879/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "中国大蒜被美列为威胁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353864&amp;topic_name=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E8%A2%AB%E7%BE%8E%E5%88%97%E4%B8%BA%E5%A8%81%E8%83%81",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 21时12分]"
-        },
-        {
-          "title": "欧洲媒体：中国车企生产的不仅是汽车",
-          "url": "https://www.toutiao.com/trending/7633310006704177203/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时14分]"
-        },
-        {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 21时12分]"
-        },
-        {
-          "title": "详解中国军校第一舰郑和舰",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%A0%A1%E7%AC%AC%E4%B8%80%E8%88%B0%E9%83%91%E5%92%8C%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 15时52分]"
-        },
-        {
-          "title": "美国防部更名预计花5200万美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E6%9B%B4%E5%90%8D%E9%A2%84%E8%AE%A1%E8%8A%B15200%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
           "title": "鲁比奥暗指中国在古巴搞情报活动？外交部回应",
@@ -460,51 +137,62 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "中方：要求日方还中国人民以净土",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%A6%81%E6%B1%82%E6%97%A5%E6%96%B9%E8%BF%98%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A5%E5%87%80%E5%9C%9F",
-          "source": "百度热搜",
+          "title": "特朗普支持率降至任内新低",
+          "url": "https://www.douyin.com/hot/2482851",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
+        },
+        {
+          "title": "匈牙利变局会影响中国投资吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%88%E7%89%99%E5%88%A9%E5%8F%98%E5%B1%80%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
+        },
+        {
+          "title": "美国国防部正式申请更名为战争部，预计成本5000万美元",
+          "url": "https://news.ifeng.com/c/8siIUtDas1d",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
+        },
+        {
+          "title": "中国军号：日本打不起“长期战争”",
+          "url": "https://www.toutiao.com/trending/7634091296285593115/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "​中国羽毛球协会主席、南京体育学院副院长张军接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33078698",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
-        },
-        {
-          "title": "中国羽毛球协会主席张军被查",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%8F%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%BC%A0%E5%86%9B%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
-        },
-        {
-          "title": "英王嘲讽美国：没英国你们在说法语",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E7%8E%8B%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%EF%BC%9A%E6%B2%A1%E8%8B%B1%E5%9B%BD%E4%BD%A0%E4%BB%AC%E5%9C%A8%E8%AF%B4%E6%B3%95%E8%AF%AD",
-          "source": "百度热搜",
+          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
+          "url": "https://wallstreetcn.com/articles/3771197",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
           "title": "日本举办战争加害图文展，民众流泪向中国道歉",
@@ -515,18 +203,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "2026 一季度广东省 GDP 出炉，如何看待广州增长 6%，时隔五年，首次同时跑赢全国和全省？",
-          "url": "https://www.zhihu.com/question/2030679067712864726",
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
           "source": "知乎",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时13分 ~ 07时14分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
           "title": "英王嘲讽美国：没英国你们在说法语",
@@ -537,821 +225,359 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "据以色列媒体：以色列总理内塔尼亚胡预计将于下周在美国与特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20260429204523078800",
-          "source": "金十数据",
+          "title": "美国媒体预测中国新航母情况",
+          "url": "https://www.toutiao.com/trending/7634125311717690922/",
+          "source": "今日头条",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美国多个情报部门正在评估伊朗会对总统特朗普宣布胜利作何反应。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3095962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "美国3月核心资本品订单环比跃升3.3%，远超预期",
-          "url": "https://flash.jin10.com/detail/20260429204508648800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美最新民调显示特朗普支持率跌至任内新低",
-          "url": "https://wallstreetcn.com/livenews/3096055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "纪念建国250周年 美国将发行印有特朗普肖像的护照",
-          "url": "https://flash.jin10.com/detail/20260429063235658800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国防部正式申请更名为战争部",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%B7%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%88%98%E4%BA%89%E9%83%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
-          "url": "https://news.ifeng.com/c/8si2qqUHRAp",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "美国参议员沃伦：特朗普正在阻碍降低利率。 特朗普正在限制美联储的行动空间。",
-          "url": "https://wallstreetcn.com/livenews/3096692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
-          "url": "https://www.cls.cn/detail/2358895",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "美国驻乌克兰大使将因与美国总统特朗普的分歧而离职。",
-          "url": "https://flash.jin10.com/detail/20260429024103001800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "据华尔街日报：美国参议院搁置古巴战争权力决议案。",
-          "url": "https://flash.jin10.com/detail/20260429063013277800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国民主党参议员沃伦：特朗普正将美联储逼入困境。",
-          "url": "https://flash.jin10.com/detail/20260429204217821800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "在与纽约市长发生争执后，Citadel的格里芬将与美国纽约州州长会面",
-          "url": "https://wallstreetcn.com/livenews/3095955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国3月耐用品订单速评：3月核心耐用品订单创2020年以来最大增幅",
-          "url": "https://wallstreetcn.com/livenews/3096691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "经纬度：主权信用评级展望上调，中国做对了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33070019",
+          "title": "美国上周要求多家芯片公司停止向华虹半导体发货，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069677",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://www.cls.cn/detail/2358979",
-          "source": "财联社热门",
+          "title": "中国大蒜被美列为威胁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353864&amp;topic_name=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%92%9C%E8%A2%AB%E7%BE%8E%E5%88%97%E4%B8%BA%E5%A8%81%E8%83%81",
+          "source": "贴吧",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
-          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
-          "url": "https://flash.jin10.com/detail/20260429062409813800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国士兵否认利用内幕消息押注马杜罗被俘虏",
-          "url": "https://flash.jin10.com/detail/20260429023704724800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "据CBS：特朗普政府要求对移民申请者进行更严格的安全审查。",
-          "url": "https://flash.jin10.com/detail/20260429062107996800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "道达尔能源CEO：我们昨天刚刚收到美国政府支付的放弃在美国海上风电项目的款项。",
-          "url": "https://flash.jin10.com/detail/20260429204154549800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美国国债收益率小幅走高，5年期国债收益率突破4%，创4月7日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3096688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "特朗普再次无视英国王室规矩",
-          "url": "https://www.douyin.com/hot/2482526",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "独家|广东唯一非国资控股城商行或将迎国资新股东",
-          "url": "https://www.cls.cn/detail/2358264",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美最新民调显示：特朗普支持率跌至任内新低",
-          "url": "https://www.cls.cn/detail/2358886",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "美国宣布对35个伊朗相关实体及个人实施制裁",
-          "url": "https://flash.jin10.com/detail/20260429023352830800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "百胜中国(YUMC.N)：对必胜客部门的战略评估正在推进中。",
-          "url": "https://flash.jin10.com/detail/20260429204118010800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
-          "url": "https://wallstreetcn.com/livenews/3096049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "【外媒称美国暂停向华虹供应半导体设备，外交部回应】4月29日，外交部发言人林剑主持例行记者会。有报道称，美国上周已要求多家芯片设备公司停止向中国第二大芯片制造商华虹半导体发货。中方对此有何评论？林剑强调，中方已多次表明了在美输华芯片问题上的原则立场，希望美方以实际行动维护全球产供链的稳定畅通。（北京日报）",
-          "url": "https://wallstreetcn.com/livenews/3096316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "据美国财经媒体Semafor：美国参议员Fetterman表示，他将支持凯文·沃什出任美联储主席的提名。他可能会成为唯一支持这一提名的民主党人。",
-          "url": "https://flash.jin10.com/detail/20260429061437577800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国原油期货结算价为每桶99.93美元，上涨3.56美元，涨幅3.69%。",
-          "url": "https://flash.jin10.com/detail/20260429023054506800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国银行：预计5月美国高评级（投资级）公司债销售额将突破1900亿美元，创新冠疫情以来的新高。 鉴于上半年发行规模如此庞大，预计供应量将在下半年放缓。",
-          "url": "https://wallstreetcn.com/livenews/3095949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
-          "url": "https://flash.jin10.com/detail/20260429023026738800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "中国汽车芯片联盟RISC-V车规芯片专委会正式成立",
-          "url": "https://flash.jin10.com/detail/20260429153213174800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren发函给美联储理事鲍曼，谈及信用卡费率政策上限的时间线。",
-          "url": "https://wallstreetcn.com/livenews/3096045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "英国王嘲讽美国特朗普表情亮了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%83%85%E4%BA%AE%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "title": "特朗普再次无视英王室规矩拍国王肩膀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "中国大使驳斥美官员：照照镜子吧",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A9%B3%E6%96%A5%E7%BE%8E%E5%AE%98%E5%91%98%EF%BC%9A%E7%85%A7%E7%85%A7%E9%95%9C%E5%AD%90%E5%90%A7",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "美国总统特朗普：德国总理对伊朗问题的发言毫无根据。",
-          "url": "https://flash.jin10.com/detail/20260429022605924800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美元指数短线小幅拉升，现报98.71。美股期货短线小幅走低，纳斯达克100指数期货涨幅收窄至1%。美国10年期国债收益率短线拉升，现报4.361%。现货黄金短线小幅走低，现报4561.55美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3096680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "消息人士透露，美国情报部门正在研判伊朗对特朗普宣布获胜可能做出的反应。官员们认为，尽管军事选项依然存在，但冲突大规模升级的可能性已有所降低。",
-          "url": "https://flash.jin10.com/detail/20260429022426041800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国5年期国债收益率突破4%，创4月7日以来新高。",
-          "url": "https://flash.jin10.com/detail/20260429203828040800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美国联邦通信委员会下令对迪士尼旗下8家ABC电视台启动牌照提前审查，以调查潜在的歧视违规行为。",
-          "url": "https://flash.jin10.com/detail/20260429022255130800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
-          "url": "https://flash.jin10.com/detail/20260429055656678800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "8岁伊朗男孩回到中国学校 全班沸腾",
-          "url": "https://www.baidu.com/s?wd=8%E5%B2%81%E4%BC%8A%E6%9C%97%E7%94%B7%E5%AD%A9%E5%9B%9E%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%AD%A6%E6%A0%A1+%E5%85%A8%E7%8F%AD%E6%B2%B8%E8%85%BE",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
-          "url": "https://flash.jin10.com/detail/20260429054900131800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国3月营建许可环比初值 -10.8%，预期 -0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3096676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美国五角大楼已正式提出更名申请，拟将“国防部”更名为“战争部”，预计相关调整成本将超过5000万美元。据悉，五角大楼总法律顾问办公室已发布相关提案，推动修改法律以完成正式更名。",
-          "url": "https://flash.jin10.com/detail/20260429054636287800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.175%（3月26日为4.255），投标倍数2.51（前次为2.43）。",
-          "url": "https://wallstreetcn.com/livenews/3095940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国电网运营商MISO夏季拍卖出清价为每兆瓦日424美元",
-          "url": "https://wallstreetcn.com/livenews/3096040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "特斯拉中国官宣5月购车政策",
-          "url": "https://wallstreetcn.com/livenews/3096301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "美国3月营建许可初值 137.2万户，预期 139万户。",
-          "url": "https://wallstreetcn.com/livenews/3096675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美国财政部：对35个伊朗实体和个人实施制裁。",
-          "url": "https://flash.jin10.com/detail/20260429021657295800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "据半岛电视台：白宫表示，美国不会为了结束战争并开放霍尔木兹海峡而“仓促与伊朗达成糟糕的协议”。",
-          "url": "https://flash.jin10.com/detail/20260429054559423800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "贝索斯出席了美国与英国之间的国宴。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3096039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国3月耐用品订单环比初值 0.8%，预期 0.5%，前值 -1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3096674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美国财政部海外资产控制办公室(OFAC)：在霍尔木兹海峡向伊朗支付“过路费”的公司面临“重大制裁”。",
-          "url": "https://flash.jin10.com/detail/20260429021612523800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国3月扣除飞机非国防资本耐用品订单环比初值 3.3%，预期 0.5%，前值 0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3096673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "外媒称美国暂停向华虹供应半导体设备，外交部回应",
-          "url": "https://flash.jin10.com/detail/20260429152850300800",
-          "source": "金十数据",
-          "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "在数据公布后，美国10年期国债收益率略有上升，上涨1.6个基点至4.37%。2年期国债收益率最后上涨2.3个基点，报3.867%。",
-          "url": "https://flash.jin10.com/detail/20260429203359721800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美国3月商品贸易帐 -879亿美元，预期 -880亿美元，前值 -835亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3096672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "广州男篮93-76大胜广东男篮抢得赛点",
-          "url": "https://www.toutiao.com/trending/7633250979073835051/",
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
           "source": "今日头条",
           "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "美国3月份商品贸易逆差为879亿美元，市场预估逆差880亿美元。",
-          "url": "https://flash.jin10.com/detail/20260429203330929800",
+          "title": "特朗普：现在是降息的良好时机。",
+          "url": "https://wallstreetcn.com/livenews/3096864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "特朗普置评阿联酋退出OPEC：太棒了。",
+          "url": "https://wallstreetcn.com/livenews/3096863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：现在是降低利率的好时机。",
+          "url": "https://flash.jin10.com/detail/20260430022905690800",
           "source": "金十数据",
           "ranks": [
-            26
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "02时59分"
         },
         {
-          "title": "OpenAI与Anthropic（上）周四向美国众议院国土安全委员会做了一次简报。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3096036",
+          "title": "美国总统特朗普：（关于阿联酋退出欧佩克）我认为这很棒。",
+          "url": "https://flash.jin10.com/detail/20260430022848640800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：我与英国国王查尔斯的关系可能有助于英国首相斯塔默。",
+          "url": "https://flash.jin10.com/detail/20260430022827739800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：我喜欢最高法院的判决结果。",
+          "url": "https://wallstreetcn.com/livenews/3096859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：如果由英国国王查尔斯做主，他“可能会帮助我们解决伊朗问题”。",
+          "url": "https://flash.jin10.com/detail/20260430022801015800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国10年期通胀保值债券（TIPS）的盈亏平衡利率上升至2.46%，为2025年2月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260430022630088800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：在乌克兰问题上与北约存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260430022623187800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：与俄罗斯总统普京讨论了伊朗问题，谈话不错。 如果伊朗不达成协议，我将摧毁剩余的导弹和系统。 普京愿意在伊朗铀浓缩问题上提供帮助。",
+          "url": "https://wallstreetcn.com/livenews/3096856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：我认为俄罗斯总统普京早就准备好达成协议，我认为“某些人”让他达成协议变得困难。",
+          "url": "https://flash.jin10.com/detail/20260430022456978800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：对北约感到失望。",
+          "url": "https://flash.jin10.com/detail/20260430022418529800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：海底有159艘伊朗船只。",
+          "url": "https://flash.jin10.com/detail/20260430022346633800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗经济正在崩。伊朗货币毫无价值，通货膨胀严重。",
+          "url": "https://flash.jin10.com/detail/20260430022316127800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：不会让伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260430022220179800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国10年期国债收益率短线从4.39%上扬至4.40%上方。 黄金价格维持大约1.2%的跌幅，美元指数维持超过0.2%的涨幅。 标普500指数跌0.3%，道指跌360点、跌幅0.7%，纳指跌0.3%，纳斯达克100指数涨0.17%，生物科技指数跌1.83%，半导体指数涨1.45%，银行指数跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3096849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：普京不想让伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260430022126556800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：我认为乌克兰和伊朗的战争持续时间差不多，都会在类似的时间结束。",
+          "url": "https://flash.jin10.com/detail/20260430022124924800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国FOMC利率决策(上限) 3.75%，预期 3.75%，前值 3.75%。",
+          "url": "https://wallstreetcn.com/livenews/3096846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京希望能提供帮助。",
+          "url": "https://flash.jin10.com/detail/20260430022044516800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国FOMC利率决策(下限) 3.5%，预期 3.5%，前值 3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3096845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗不达成协议，我将摧毁剩余的导弹和系统。",
+          "url": "https://flash.jin10.com/detail/20260430022004470800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "Pershing Square USA（潘兴广场美国，PSUS）美国IPO首日开盘报42美元，此前给出的IPO发行价为每股50美元。 pershing Square Inc.（潘兴广场）美国IPO首日开盘报24美元。",
+          "url": "https://wallstreetcn.com/livenews/3096844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "德意志银行美国首席经济学家Luzzetti：美联储可能会采用更加平衡的措辞。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3096843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "法国兴业银行：美联储没理由调整立场。 美国整体形势良好。 美联储加息的门槛让仍然相对偏高。",
+          "url": "https://wallstreetcn.com/livenews/3096842",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国3月新屋开工 150.2万户，预期 138万户。",
-          "url": "https://wallstreetcn.com/livenews/3096671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "02时59分"
         },
         {
-          "title": "中国国航：第一季度净利润17.14亿元，同比增长183.86%",
-          "url": "https://flash.jin10.com/detail/20260429203301158800",
+          "title": "美国总统特朗普：我建议在乌克兰进行短暂停火。",
+          "url": "https://flash.jin10.com/detail/20260430021937515800",
           "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "02时59分"
         },
         {
-          "title": "美国：禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
-          "url": "https://wallstreetcn.com/livenews/3096035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国3月批发库存环比初值 1.4%，预期 0.4%，前值 0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3096669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "塔吉克斯坦选手赢比赛后身披中国国旗",
-          "url": "https://www.baidu.com/s?wd=%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E8%B5%A2%E6%AF%94%E8%B5%9B%E5%90%8E%E8%BA%AB%E6%8A%AB%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "Robinhood预警特朗普账户相关支出，股价盘后下跌",
-          "url": "https://wallstreetcn.com/livenews/3096034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国3月零售库存环比 0.7%，预期 0.1%，前值 0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3096670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美国防部正式申请更名为“战争部”",
-          "url": "https://wallstreetcn.com/livenews/3096033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国3月新屋开工环比 10.8%，预期 -0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3096668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美国能源部长Wright签署协议，从而扩大美国液化天然气（LNG）出口。",
-          "url": "https://wallstreetcn.com/livenews/3096032",
+          "title": "美联储4月决议声明发布前，美国10年期国债收益率涨4.9个基点，持稳于4.4%附近。 两年期美债收益率涨约2个基点，持稳于0.88%附近。",
+          "url": "https://wallstreetcn.com/livenews/3096838",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国3月扣除运输类耐用品订单环比初值 0.9%，预期 0.4%，前值 0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3096667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "02时59分"
         }
       ]
     }
